@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<figuras>
+	<rectangulo>
+		<dimensiones>
+			<altura>120</altura>
+			<anchura>150</anchura>
+			<vertice>
+				<posX>150</posX>
+				<posY>400</posY>
+			</vertice>
+		</dimensiones>
+	</rectangulo>
+
+	<circunferencia>
+		<dimensiones>
+			<radio>100</radio>
+			<vertice>
+				<posX>400</posX>
+				<posY>400</posY>
+			</vertice>
+		</dimensiones>
+	</circunferencia>
+
+	<lineaRecta>
+		<dimensiones>
+			<longitud>100</longitud>
+			<inicio>
+				<posX>270</posX>
+				<posY>500</posY>
+			</inicio>
+			<final>
+				<posX>400</posX>
+				<posY>400</posY>
+			</final>
+		</dimensiones>
+	</lineaRecta>
+</figuras>
