@@ -1,0 +1,28 @@
+<eventos>
+	<evento1>
+		<señal>Accidente</señal>
+		<puntoKilometrico>42200</puntoKilometrico>
+		<nombreVia>A-49</nombreVia>
+		<sentido>Huelva</sentido>
+		<corteVia>1 carril</corteVia>
+		<fechaHora>
+			<fecha></fecha>
+			<hora></hora>
+		</fechaHora>
+		<retencion>Sí</retencion>
+		<kilometrosRetencion>8</kilometrosRetencion>
+	</evento1>
+	<evento2>
+		<señal>Retención</señal>
+		<puntoKilometrico>550</puntoKilometrico>
+		<nombreVia>A-4</nombreVia>
+		<sentido>Sevilla</sentido>
+		<fechaHora>
+			<fecha></fecha>
+			<hora></hora>
+		</fechaHora>
+		<retencion>Sí</retencion>
+		<kilometrosRetencion>3</kilometrosRetencion>	
+	</evento2>
+</eventos>
+	
