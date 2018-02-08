@@ -1,0 +1,16 @@
+<prestamo>
+	<libro>
+		<libroISBN></libroISBN>
+		<libroCodNum></libroCodNum>
+		<libroNombre></libroNombre>
+		<libroEditorial></libroEditorial>
+		<libroAñoPubl></libroAñoPubl>
+		<libroAutor></libroAutor>
+	</libro>
+	<socio>
+		<socioDNI></socioDNI>
+		<socioNombre></socioNombre>
+		<socioDireccion></socioDireccion>
+	</socio>
+	<fechaPrestamo></fechaPrestamo>
+</prestamo>

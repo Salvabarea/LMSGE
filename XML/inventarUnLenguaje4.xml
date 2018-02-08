@@ -1,0 +1,18 @@
+<factura>
+	<codFac></codFac>
+	<fechaFac></fechaFac>
+	<cliente>
+		<cliDNI></cliDNI>
+		<cliNombre></cliNombre>
+		<cliDireccion></cliDireccion>
+		<cliCodPos></cliCodPos>
+		<cliPoblac></cliPoblac>
+	</cliente>
+	<producto>
+		<prodCant></prodCant>
+		<prodDenom></prodDenom>
+		<prodPrecUn></prodPrecUn>
+		<prodIVA></prodIVA>
+	</producto>
+	<DCTO></DCTO>
+</factura>

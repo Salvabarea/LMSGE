@@ -1,0 +1,19 @@
+<prediccion>
+	<probPrecipitacion>55%</probPrecipitacion>
+	<estadoCielo>Intervalos nubosos</estadoCielo>
+	<direccionViento>Suroeste</direccionViento>
+	<velocidadViento>10 Km/h</velocidadViento>
+	<temperatura>
+		<tempMax>21ºC</tempMax>
+		<tempMin>10ºC</tempMin>
+	</temperatura>
+	<sensacionTermica>
+		<sensMax>21ºC</sensMax>
+		<sensMin>10ºC</sensMin>
+	</sensacionTermica>
+	<humedadRelativa>
+		<humRelMax>90%</humRelMax>
+		<humRelMin>50%</humRelMin>
+	</humedadRelativa>
+	<indUltravioletaMax>3</indUltravioletaMax>
+</prediccion>
